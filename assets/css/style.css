@@ -1,0 +1,35 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+
+#ButtonScrollTop {
+    display: none;
+    position: fixed;
+    bottom: 6rem;
+    right: 1.5rem;
+    z-index: 99;
+
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #000000;
+}
+#ButtonScrollTop:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #000000;
+}
+
+
+#ButtonWhatsapp {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    z-index: 99;
+
+    background-color: #4dc247;
+    border: #4dc247;
+}
