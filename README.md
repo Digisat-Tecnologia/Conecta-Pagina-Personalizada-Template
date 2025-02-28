@@ -70,7 +70,7 @@ Após realizar as configurações acima, dentro das tags `<body>`, você pode co
 
   <!-- Apagar este código para ficar limpo sua página -->
   <section class="d-flex" style="height: 100vh;">
-    <div class="m-auto text-center">
+    <div class="container m-auto text-center">
         <h5 class="mb-5">Aqui é o local onde você pode desenvolver sua página personalizada.</h1>
         <div class="row g-5">
             <div class="col-md-6">
@@ -136,7 +136,7 @@ Após desenvolver todo o aquivo `index.html` deve seguir os seguintes passos.
 
   <!-- Apagar este código para ficar limpo sua página -->
   <section class="d-flex" style="height: 100vh;">
-    <div class="m-auto text-center">
+    <div class="container m-auto text-center">
         <h5 class="mb-5">Aqui é o local onde você pode desenvolver sua página personalizada.</h1>
         <div class="row g-5">
             <div class="col-md-6">
